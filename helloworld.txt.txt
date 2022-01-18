@@ -1,1 +1,4 @@
 hello welcome to git directory 
+
+
+This is new git reposotory.
