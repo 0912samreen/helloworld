@@ -1,4 +1,4 @@
 hello welcome to git directory 
 
 
-This is new git reposotory.
+we are creating a new branch in our directory
